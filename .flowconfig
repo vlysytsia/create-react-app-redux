@@ -1,0 +1,8 @@
+[ignore]
+.*/node_modules/
+[include]
+
+[libs]
+
+[options]
+module.name_mapper='^.*\.scss$' -> 'css-module-flow'
